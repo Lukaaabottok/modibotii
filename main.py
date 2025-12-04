@@ -15,7 +15,7 @@ MOD = "🛡️"
 FUN = "🎉"
 GIVE = "🎁"
 
-WELCOME_CHANNEL_ID = 123456789012345678
+WELCOME_CHANNEL_ID = 1442076878142963855
 
 @bot.event
 async def on_ready():
